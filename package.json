@@ -2,7 +2,7 @@
   "name": "vuelnk",
   "description": "A simple link shortener",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "author": "vuejsco",
   "homepage": "https://vuejsco.com",
